@@ -1,0 +1,51 @@
+{
+  "itemGroup.create_power_loader.main": "Create: Power Loader",
+
+  "block.create_power_loader.empty_andesite_chunk_loader": "Leerer Andesit-Chunk-Lader",
+  "block.create_power_loader.andesite_chunk_loader": "Andesit-Chunk-Lader",
+
+  "block.create_power_loader.empty_brass_chunk_loader": "Leerer Messing-Chunk-Lader",
+  "block.create_power_loader.brass_chunk_loader": "Messing-Chunk-Lader",
+  "create_power_loader.brass_chunk_loader.loading_range": "Chunk-Ladebereich",
+  "create_power_loader.brass_chunk_loader.load_1x1": "1x1 Quadrat",
+  "create_power_loader.brass_chunk_loader.load_3x3": "3x3 Quadrat",
+  "create_power_loader.brass_chunk_loader.load_5x5": "5x5 Quadrat",
+
+  "create_power_loader.ponder.empty_chunk_loader_basic.header": "Verwendung von leeren Chunk-Ladern",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_1": "Rechtsklicke ein Ghast mit einem leeren Chunk-Lader um ihn einzufangen",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_2": "Mit Rotationsenergie wird der gefangene Ghast die Portalkerne beleuchten...",
+  "create_power_loader.ponder.empty_chunk_loader_basic.text_3": "...um den Chunk-Lader zum Leben zu erwecken",
+
+  "create_power_loader.ponder.andesite_chunk_loader_basic.header": "Grundlegende Verwendung des Andesit-Chunk-Laders",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_1": "Der Chunk-Lader hält den aktuellen Chunk geladen, wenn er mit Rotationsenergie betrieben wird",
+  "create_power_loader.ponder.andesite_chunk_loader_basic.text_2": "Es wird nicht funktionieren, wenn die Rotationsgeschwindigkeit zu langsam ist",
+
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.header": "Redstone und der Andesit-Chunk-Lader",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_1": "Der Chunk-Lader gibt ein Komparator-Signal aus, wenn er aktiv ist",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_2": "Wenn die Rotationsenergie verloren geht, gibt es eine kurze Verzögerung (konfigurierbar), bevor die Chunks entladen werden",
+  "create_power_loader.ponder.andesite_chunk_loader_redstone.text_3": "Der Chunk bleibt geladen, wenn die Energie während dieser Verzögerung wiederhergestellt wird",
+
+  "create_power_loader.ponder.brass_chunk_loader_basic.header": "Grundlegende Verwendung des Messing-Chunk-Laders",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_1": "Der Messing-Chunk-Lader lädt weiterhin den aktuellen Chunk, wenn er mit Rotationsenergie betrieben wird",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_2": "Es wird nicht funktionieren, wenn die Rotationsgeschwindigkeit zu langsam ist",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_3": "Man kann den geladenen Bereich über das Wertefeld konfigurieren...",
+  "create_power_loader.ponder.brass_chunk_loader_basic.text_4": "...aber eine größere Reichweite erfordert eine höhere Rotationsgeschwindigkeit",
+
+  "create_power_loader.ponder.brass_chunk_loader_redstone.header": "Redstone und der Messing-Chunk-Lader",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_1": "Der Chunk-Lader gibt ein Komparator-Signal aus, wenn er aktiv ist",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_2": "Wenn die Rotationsenergie verloren geht, gibt es eine kurze Verzögerung (konfigurierbar), bevor die Chunks entladen werden",
+  "create_power_loader.ponder.brass_chunk_loader_redstone.text_3": "Der Chunk bleibt geladen, wenn die Energie während dieser Verzögerung wiederhergestellt wird",
+
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.header": "Chunks um bewegliche Vorrichtungen laden",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_1": "Messing-Chunk-Lader funktionieren auch auf beweglichen Vorrichtungen",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_2": "Sie laden einen 3x3 chunk Bereich um die Vorrichtung herum",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_3": "Auf beweglichen Vorrichtungen benötigen sie keine Rotationsenergie, um zu funktionieren",
+  "create_power_loader.ponder.brass_chunk_loader_contraptions.text_4": "Sie funktionieren auch auf stationären Vorrichtungen",
+
+  "create_power_loader.ponder.brass_chunk_loader_station.header": "Chunks an Zugstationen laden",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_1": "Messing-Chunk-Lader können an Bahnhöfen angebracht werden",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_2": "Platzier den Chunk-Lader in der richtigen Richtung neben Bahnhöfen",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_3": "Sie benötigen keine Rotationsenergie, sind aber normalerweise inaktiv",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_4": "Wenn ein Zug am Bahnhof ankommt, wird ein Bereich von 3x3 um den Chunk-Lader herum geladen",
+  "create_power_loader.ponder.brass_chunk_loader_station.text_5": "Wenn der Zug den Bahnhof verlässt, werden die Chunks wieder entladen"
+}
